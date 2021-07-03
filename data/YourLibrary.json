@@ -1,0 +1,223 @@
+{
+  "tracks": [
+  ],
+  "albums": [
+    {
+      "artist": "Hungria Hip Hop",
+      "album": "Cheiro do Mato",
+      "uri": "spotify:album:4wRvyoU54SubOhGWL2n9Rp"
+    },
+    {
+      "artist": "Aerosmith",
+      "album": "A Little South Of Sanity",
+      "uri": "spotify:album:3vXuOrqNDMKynoFfJROB9P"
+    },
+    {
+      "artist": "CPM 22",
+      "album": "Ao Vivo",
+      "uri": "spotify:album:6hqHNxwYXBnVwqN4JZvowB"
+    }
+  ],
+  "shows": [
+    {
+      "name": "Data Hackers",
+      "publisher": "Data Hackers",
+      "uri": "spotify:show:1oMIHOXsrLFENAeM743g93"
+    },
+    {
+      "name": "Do Zero ao Topo",
+      "publisher": "InfoMoney",
+      "uri": "spotify:show:48ljM9qIbODhemJ7lLGjeR"
+    },
+    {
+      "name": "Hipsters Ponto Tech",
+      "publisher": "Alura",
+      "uri": "spotify:show:2p0Vx75OmfsXktyLBuLuSf"
+    },
+    {
+      "name": "Inteligência Ltda.",
+      "publisher": "Rogério Vilela",
+      "uri": "spotify:show:14jalMOh1Jr77eTRUdN6X9"
+    },
+    {
+      "name": "Let's Data Podcast",
+      "publisher": "Bernardo Lago, Felipe Schiavon, Leon Silva",
+      "uri": "spotify:show:0VsNN95jsJVRS424eCFDlg"
+    },
+    {
+      "name": "Mauricio Meirelles Podcast",
+      "publisher": "Maurício Meirelles",
+      "uri": "spotify:show:13UuAPyNnP63GWCzn62vpO"
+    },
+    {
+      "name": "Muito Risco Pouco Ego",
+      "publisher": "Daniel Zukerman e Tio Ricco",
+      "uri": "spotify:show:0tSJEoM1wlGFAU53SeNlDY"
+    },
+    {
+      "name": "NerdCast",
+      "publisher": "Jovem Nerd",
+      "uri": "spotify:show:22Wgt4ASeaw8mmoqAWNUn1"
+    },
+    {
+      "name": "Não Ouvo Podcasts",
+      "publisher": "Não Salvo",
+      "uri": "spotify:show:7w2wmS5tdwLBMtEN3puAxn"
+    },
+    {
+      "name": "Os Sócios Podcast",
+      "publisher": "Os Sócios Podcast",
+      "uri": "spotify:show:17bkR8GX6FmyKYvhQv4nOi"
+    },
+    {
+      "name": "Podpah",
+      "publisher": "Podpah",
+      "uri": "spotify:show:3ZFtTaqImcCgWoyiy22fOE"
+    },
+    {
+      "name": "Primocast",
+      "publisher": "O Primo Rico",
+      "uri": "spotify:show:2gCj9YG9tjMexhS4pIlRHo"
+    },
+    {
+      "name": "Pro Football | NFL",
+      "publisher": "Antony Curti | ProFootball",
+      "uri": "spotify:show:23WO35O7xAnJECXe9XwHpp"
+    },
+    {
+      "name": "Sinapse",
+      "publisher": "Ciência Todo Dia",
+      "uri": "spotify:show:59fUC0CFgoMfiLDXCuhjUM"
+    },
+    {
+      "name": "Stack | Datacast",
+      "publisher": "Stack",
+      "uri": "spotify:show:66AZypmVZOXjFsbQXtsK9E"
+    },
+    {
+      "name": "Stock Pickers",
+      "publisher": "InfoMoney",
+      "uri": "spotify:show:0OKark671tCbUyszCSs5Ff"
+    },
+    {
+      "name": "Ticaracaticast",
+      "publisher": "Ticaracaticast",
+      "uri": "spotify:show:6EJUwYDC2vdgdZ28sghbh5"
+    },
+    {
+      "name": "Flow Podcast",
+      "publisher": "Flow Podcast",
+      "uri": "spotify:show:21gj5G8VZE7FYFkCNMnqQD"
+    }
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+  ],
+  "artists": [
+    {
+      "name": "AC/DC",
+      "uri": "spotify:artist:711MCceyCBcFnzjGY4Q7Un"
+    },
+    {
+      "name": "Aerosmith",
+      "uri": "spotify:artist:7Ey4PD4MYsKc5I2dolUwbH"
+    },
+    {
+      "name": "Black Sabbath",
+      "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+    },
+    {
+      "name": "Arctic Monkeys",
+      "uri": "spotify:artist:2Jw4Lrfjnyv2QsDoBgnrAP"
+    },
+    {
+      "name": "The Doors",
+      "uri": "spotify:artist:1on7ZQ2pvgeQF4vmIA09x5"
+    },
+    {
+      "name": "R.E.M.",
+      "uri": "spotify:artist:293zczrfYafIItmnmM3coR"
+    },
+    {
+      "name": "Engenheiros Do Hawaii",
+      "uri": "spotify:artist:0GNq4xh8uFCyihPurnunf7"
+    },
+    {
+      "name": "Eric Clapton",
+      "uri": "spotify:artist:6PAt558ZEZl0DmdXlnjMgD"
+    },
+    {
+      "name": "Huey Lewis & The News",
+      "uri": "spotify:artist:0Ludmn78UAusTsNCXgICrN"
+    },
+    {
+      "name": "David Bowie",
+      "uri": "spotify:artist:7FIoB5PHdrMZVC3q2HE5MS"
+    },
+    {
+      "name": "Lynyrd Skynyrd",
+      "uri": "spotify:artist:7GaxyUddsPok8BuhxN6OUW"
+    },
+    {
+      "name": "Led Zeppelin",
+      "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp"
+    },
+    {
+      "name": "Creedence Clearwater Revival",
+      "uri": "spotify:artist:1A5QJAC1vdhbhPE25Q0x0f"
+    },
+    {
+      "name": "Queen",
+      "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+    },
+    {
+      "name": "Skank",
+      "uri": "spotify:artist:4C4kpaAdp6aKSkguw40SsU"
+    },
+    {
+      "name": "The Beatles",
+      "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+    },
+    {
+      "name": "The Rolling Stones",
+      "uri": "spotify:artist:22bE4uQ6baNwSHPVcDxLCe"
+    },
+    {
+      "name": "The Who",
+      "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+    },
+    {
+      "name": "Scorpions",
+      "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+    },
+    {
+      "name": "Red Hot Chili Peppers",
+      "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+    },
+    {
+      "name": "Pink Floyd",
+      "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+    },
+    {
+      "name": "Dire Straits",
+      "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+    },
+    {
+      "name": "Charlie Brown Jr.",
+      "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+    },
+    {
+      "name": "CPM 22",
+      "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+    },
+    {
+      "name": "O Rappa",
+      "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
+    }
+  ],
+  "bannedArtists": [
+  ],
+  "other": [
+  ]
+}
